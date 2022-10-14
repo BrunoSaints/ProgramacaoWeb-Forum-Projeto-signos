@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signs>
+
+    <sign>
+        <initialDate>21/03</initialDate>
+        <endDate>20/04</endDate>
+        <signName>Áries</signName>
+        <description>Os arianos costumam ser individualistas e espontâneos! Além disso, são regidos pelo planeta Marte, o que faz com que eles tenham “um pouco” de 
+        impaciência.</description>
+    </sign>
+  
+    <sign>
+        <initialDate>21/04</initialDate>
+        <endDate>20/05</endDate>
+        <signName>Touro</signName>
+        <description>Os taurinos são esforçados e práticos! Além disso, são regidos pelo planeta Vênus, e por isso admiram muito a beleza das coisas.</description>
+    </sign>
+
+    <sign>
+        <initialDate>21/05</initialDate>
+        <endDate>20/06</endDate>
+        <signName>Gêmeos</signName>
+        <description>Gêmeos é um dos signos mais divertidos, alegres e animados. Com uma boa conversa, as pessoas desse signo são capazes de afastar qualquer monotonia.</description>
+    </sign>
+
+    <sign>
+        <initialDate>21/06</initialDate>
+        <endDate>22/07</endDate>
+        <signName>Câncer</signName>
+        <description>As pessoas do signo de Câncer estão entre as mais sensíveis do zodíaco. São românticas, sonhadoras, fiéis, cuidadosas e muito dedicadas à família.</description>
+    </sign>
+
+    <sign>
+        <initialDate>23/07</initialDate>
+        <endDate>22/08</endDate>
+        <signName>Leão</signName>
+        <description>Costuma ser alegre, brincalhão, exuberante e criativo. Gosta de ter a atenção só para ele e possui uma autoconfiança admirável.</description>
+    </sign>
+
+    <sign>
+        <initialDate>23/08</initialDate>
+        <endDate>22/09</endDate>
+        <signName>Virgem</signName>
+        <description>As pessoas do signo de Virgem costumam ser inteligentes, detalhistas, metódicas, organizadas, discretas e perfeccionistas.</description>
+    </sign>
+
+    <sign>
+        <initialDate>23/09</initialDate>
+        <endDate>22/10</endDate>
+        <signName>Libra</signName>
+        <description>Os nativos de Libra são considerados os mais luxuosos e elegantes do zodíaco. Para eles, é como se a vida fosse uma bela e sofisticada obra de arte.</description>
+    </sign>
+
+    <sign>
+        <initialDate>23/10</initialDate>
+        <endDate>21/11</endDate>
+        <signName>Escorpião</signName>
+        <description>Os nativos desse signo tendem a ter força e capacidade de se reinventar, mesmo diante de situações desafiadoras.</description>
+    </sign>
+
+    <sign>
+        <initialDate>22/11</initialDate>
+        <endDate>21/12</endDate>
+        <signName>Sagitário</signName>
+        <description>O signo de Sagitário é o mais otimista e idealista dos signos do Zodíaco! Os seus nativos são inteligentes, muito sinceros e exalam confiança.</description>
+    </sign>
+
+    <sign>
+        <initialDate>22/12</initialDate>
+        <endDate>20/01</endDate>
+        <signName>Capricórnio </signName>
+        <description>Nativos desse signo são coerentes, disciplinados, sérios e responsáveis.</description>
+    </sign>
+
+    <sign>
+        <initialDate>21/01</initialDate>
+        <endDate>18/02</endDate>
+        <signName>Aquário</signName>
+        <description>A busca por inovação e independência são fortes características do signo de Aquário. Com criatividade sempre em alta, pessoas com Sol ou Ascendente em Aquário costumam ir direto ao ponto.</description>
+    </sign>
+
+    <sign>
+        <initialDate>19/02</initialDate>
+        <endDate>20/03</endDate>
+        <signName>Peixes</signName>
+        <description>A empatia e a humildade podem ser fortes características de Peixes. Sempre conectados com sua intuição, piscianos e piscianas costumam captar as coisas no ar, muitas vezes são pessoas bem discretas e observadoras que conseguem perceber o mundo através da observação de si.</description>
+    </sign>
+
+</signs>
+
+
